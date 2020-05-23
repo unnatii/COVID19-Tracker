@@ -1,0 +1,11 @@
+.igraph{
+
+    width:380px;
+    height:270px;
+    border-radius: 5px;
+}
+
+.confirmed{
+    margin: 50px 60px 0;
+    background-color: #DCF7F6 ;
+}

@@ -1,0 +1,31 @@
+.card{
+    background-color:#2A2C2C ;
+    margin:  30px 0 0 60px;
+    width: 990px;
+    border-radius:12px ;
+}
+
+
+.confirmed{
+    color: brown;
+    margin:30px 50px 30px 60px;
+    padding: 0;
+    border-radius:12px ;
+}
+
+
+.deaths{
+    
+    margin:30px 0 30px 10px;
+    padding: 0;
+    border-radius:12px ;
+
+}
+
+.recovered{
+
+    color: cadetblue;
+    margin:30px 50px 30px 10px;
+    padding: 0;
+    border-radius:12px ;
+}
